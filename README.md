@@ -7,4 +7,4 @@ Projects will happening on a 10-week bases, starting on June 2.
 ## Week 0: May 20 - June 2
 ✅ Self-Assessment
 ✅ Communication channel with team
-🟨 Inital Set up with conda & CompuCell3D in mac environment
+✅ Inital Set up with conda & CompuCell3D in mac environment
